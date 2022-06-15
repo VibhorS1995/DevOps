@@ -1,2 +1,4 @@
 This program will allow the user to check
 the number whether it's even or odd.
+
+it is a new feature.
